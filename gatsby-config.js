@@ -1,7 +1,7 @@
 const config = require('./src/config');
 
 module.exports = {
-  pathPrefix: '/Abhi.dev',
+  pathPrefix: '/gatsby-github-pages',
   siteMetadata: {
     title: 'Abhishek Praveenkumar Muttath',
     description:
@@ -118,7 +118,7 @@ module.exports = {
         background_color: config.colors.darkNavy,
         theme_color: config.colors.navy,
         display: 'minimal-ui',
-        icon: '/src/test.jpeg',
+        icon: 'src/test.jpeg',
       },
     },
     `gatsby-plugin-offline`,

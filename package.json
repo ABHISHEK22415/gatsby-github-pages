@@ -2,10 +2,10 @@
   "name": "devfolio",
   "description": "Personal Portfolio Website",
   "version": "1.0.0",
-  "author": "Wali Ullah <wali6985@gmail.com>",
+  "author": "",
   "repository": {
     "type": "git",
-    "url": "https://github.com/SABERGLOW/waliullah.dev"
+    "url": ""
   },
   "keywords": [
     "gatsby"
