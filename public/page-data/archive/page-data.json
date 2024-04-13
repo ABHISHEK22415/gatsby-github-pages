@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-pages-archive-js",
+    "path": "/archive/",
+    "result": {"data":{"allMarkdownRemark":{"edges":[{"node":{"frontmatter":{"date":"2021-12-11","title":"Asteroid Miners","tech":["Java","libGDX","mini2Dx"],"github":"https://github.com/SABERGLOW/AsteroidMiners","external":"https://github.com/SABERGLOW/AsteroidMiners","company":null},"html":"<p>☄️ An Asteroid Mining game developed in JAVA using LibGDX and mini2Dx.</p>\n<p>It's survival type game where you mine and collect resources to build Robots, Teleportation Gates and a Space Station to win the game. Beware, Dangers lurk in the asteroid belt. SunStorms and Radioactive Explosions can be your demise. Mine, Survicve, and Build a Space Station to win. Happy Mining.</p>"}}]}},"pageContext":{}},
+    "staticQueryHashes": ["1994492073","2009693873","3825832676","4162897811"]}
